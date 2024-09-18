@@ -1,0 +1,5 @@
+Este é um arquivo
+
+com texto
+
+que vai ser lido pelo Java
