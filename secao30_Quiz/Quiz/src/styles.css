@@ -1,0 +1,23 @@
+.label {
+  -fx-font-size: 22px;
+  -fx-padding: 15px;
+  -fx-text-fill: #2e4053;
+  -fx-font-weight: bold;
+}
+
+.radio-button {
+  -fx-font-size: 18px;
+  -fx-padding: 10px;
+  -fx-background-color: #e8f8f5;
+  -fx-border-color: #1abc9c;
+  -fx-border-radius: 5px;
+  -fx-pref-width: 300px;
+}
+
+.button {
+  -fx-font-size: 18px;
+  -fx-padding: 10px 30px;
+  -fx-background-color: #3498db;
+  -fx-text-fill: #ffffff;
+  -fx-border-radius: 5px;
+}

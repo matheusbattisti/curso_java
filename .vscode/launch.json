@@ -6,6 +6,30 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Quiz",
+      "request": "launch",
+      "mainClass": "Quiz",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Cronometro",
+      "request": "launch",
+      "mainClass": "Cronometro",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Calculadora",
+      "request": "launch",
+      "mainClass": "Calculadora",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
       "name": "MainApp",
       "request": "launch",
       "mainClass": "helloworldfx.MainApp",
