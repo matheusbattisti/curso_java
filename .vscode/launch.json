@@ -1,0 +1,489 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainApp",
+      "request": "launch",
+      "mainClass": "helloworldfx.MainApp",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "SmoothAnimationExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.SmoothAnimationExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "CanvasExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.CanvasExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ShapeDrawingExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.ShapeDrawingExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ImageViewExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.ImageViewExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "AlertExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.AlertExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "MultipleWindowsExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.MultipleWindowsExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "CSSStylingExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.CSSStylingExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "KeyboardMouseEventsExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.KeyboardMouseEventsExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ButtonClickExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.ButtonClickExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ComboBoxListViewExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.ComboBoxListViewExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "CheckboxRadioButtonExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.CheckboxRadioButtonExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "TextFieldTextAreaExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.TextFieldTextAreaExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ButtonLabelExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.ButtonLabelExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "StackPaneAnchorPaneExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.StackPaneAnchorPaneExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "GridPaneExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.GridPaneExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "BorderPaneExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.BorderPaneExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "VBoxHBoxExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.VBoxHBoxExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "StageSceneExample",
+      "request": "launch",
+      "mainClass": "helloworldfx.StageSceneExample",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "helloworldfx.Main",
+      "projectName": "curso_dce8b211",
+      "vmArgs": "--module-path C:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "secao1.HelloWorld",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "ContadorDePalavras",
+      "request": "launch",
+      "mainClass": "secao10_contadorPalavrasP.ContadorDePalavras",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios",
+      "request": "launch",
+      "mainClass": "secao11.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "secao11.Loops",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "LoopsB",
+      "request": "launch",
+      "mainClass": "secao11.LoopsB",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraSimples",
+      "request": "launch",
+      "mainClass": "secao12_calculadoraSimples.CalculadoraSimples",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "JogoAdvinhacao",
+      "request": "launch",
+      "mainClass": "secao13_jogoAdvinhacaoP.JogoAdvinhacao",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "AvancandoArrays",
+      "request": "launch",
+      "mainClass": "secao14.AvancandoArrays",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(1)",
+      "request": "launch",
+      "mainClass": "secao14.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Listas",
+      "request": "launch",
+      "mainClass": "secao14.Listas",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "JogoDaForca",
+      "request": "launch",
+      "mainClass": "secao15_JogoDaForca.JogoDaForca",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "VerificadorForcaSenha",
+      "request": "launch",
+      "mainClass": "secao16_VerificadorDeSenha.VerificadorForcaSenha",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(2)",
+      "request": "launch",
+      "mainClass": "secao17.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "POO",
+      "request": "launch",
+      "mainClass": "secao17.POO",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "POO2",
+      "request": "launch",
+      "mainClass": "secao17.POO2",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "SimuladorLoteria",
+      "request": "launch",
+      "mainClass": "secao18_Loteria.SimuladorLoteria",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "SistemaCadastroAluno",
+      "request": "launch",
+      "mainClass": "secao19_CadastroAlunosP.SistemaCadastroAluno",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(3)",
+      "request": "launch",
+      "mainClass": "secao2.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "TesteScanner",
+      "request": "launch",
+      "mainClass": "secao2.TesteScanner",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Variavel",
+      "request": "launch",
+      "mainClass": "secao2.Variavel",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "POO2(1)",
+      "request": "launch",
+      "mainClass": "secao20.Avancando.POO2",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(4)",
+      "request": "launch",
+      "mainClass": "secao20.Exercicios.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "POO(1)",
+      "request": "launch",
+      "mainClass": "secao20.POO",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Erros",
+      "request": "launch",
+      "mainClass": "secao21.Erros",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Arquivo",
+      "request": "launch",
+      "mainClass": "secao22.Arquivo",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Generics",
+      "request": "launch",
+      "mainClass": "secao23.Generics",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Colecoes",
+      "request": "launch",
+      "mainClass": "secao24.Colecoes",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Regex",
+      "request": "launch",
+      "mainClass": "secao25.Regex",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Anotacoes",
+      "request": "launch",
+      "mainClass": "secao26.Anotacoes",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Tabuada",
+      "request": "launch",
+      "mainClass": "secao3_tabuada.Tabuada",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "MediaAluno",
+      "request": "launch",
+      "mainClass": "secao4_media.MediaAluno",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Condicionais",
+      "request": "launch",
+      "mainClass": "secao5.Condicionais",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "CondicionaisDois",
+      "request": "launch",
+      "mainClass": "secao5.CondicionaisDois",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(5)",
+      "request": "launch",
+      "mainClass": "secao5.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "OperadoresLogicos",
+      "request": "launch",
+      "mainClass": "secao5.OperadoresLogicos",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "secao5.Switch",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraIMC",
+      "request": "launch",
+      "mainClass": "secao6_calcIMC.CalculadoraIMC",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "ClassificacaoProduto",
+      "request": "launch",
+      "mainClass": "secao7_ClassificacaoProduto.ClassificacaoProduto",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Exercicios(6)",
+      "request": "launch",
+      "mainClass": "secao8.Exercicios",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "Funcoes",
+      "request": "launch",
+      "mainClass": "secao8.Funcoes",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "FuncoesB",
+      "request": "launch",
+      "mainClass": "secao8.FuncoesB",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "FuncoesBuiltIn",
+      "request": "launch",
+      "mainClass": "secao8.FuncoesBuiltIn",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "FuncoesC",
+      "request": "launch",
+      "mainClass": "secao8.FuncoesC",
+      "projectName": "curso_dce8b211"
+    },
+    {
+      "type": "java",
+      "name": "ConversorDeTemperatura",
+      "request": "launch",
+      "mainClass": "secao9_conversorTemperatura.ConversorDeTemperatura",
+      "projectName": "curso_dce8b211"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.label-custom {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+}
+
+.button-custom {
+  -fx-border: 1px solid blue;
+  -fx-border-radius: 5px;
+}

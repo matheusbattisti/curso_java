@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.base.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.controls.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.fxml.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.graphics.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.media.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.swing.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx.web.jar",
+    "c:\\Users\\mathe\\Downloads\\openjfx\\javafx-sdk-21.0.4\\lib\\javafx-swt.jar"
+  ]
+}
